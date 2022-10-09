@@ -1,3 +1,3 @@
 #!/bin/sh
 
-repo-add online-repo.db.tar.gz *.pkg.tar.*
+repo-add manjaro-pkgbuilds.db.tar.gz *.pkg.tar.*
